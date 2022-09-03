@@ -6,7 +6,7 @@ from PIL import Image
 # Path 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "Davis'_ resume.pdf"
+resume_file = current_dir / "assets" / "Davis'_CV.pdf"
 profile_pic = current_dir / "assets" / "Davis_pic_tr_best.png"
 
 
@@ -19,7 +19,7 @@ Data Analyst. A result-oriented professional with strong analytical skills that 
 """
 EMAIL = "davisonyeas1@gmail.com"
 SOCIAL_MEDIA = {
-    "Portfolio Website": "https://davisonye@github.io",
+    "Portfolio Website": "https://davisonyeas.github.io/portfolio/",
     "LinkedIn": "https://www.linkedin.com/in/davis-onyeoguzoro/",
     "GitHub": "https://github.com/Davisonyeas",
     "Twitter": "https://twitter.com/Davisonyeas1",
