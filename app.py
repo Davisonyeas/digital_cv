@@ -6,7 +6,7 @@ from PIL import Image
 # Path 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file = current_dir / "assets" / "Davis'_CV.pdf"
+resume_file = current_dir / "assets" / "Davis CV.pdf"
 profile_pic = current_dir / "assets" / "Davis_pic_tr_best.png"
 
 
@@ -158,7 +158,7 @@ st.subheader("Volunteering")
 
 
 # --- JOB 1
-st.write("🚧", "**Team Lead | AI/ML Lead | Greysoft Technologies**")
+st.write("🚧", "**Team Lead | AI/ML Lead | Google Developer Student Clubs**")
 st.write("04/2022 - Present")
 st.write(
     """
