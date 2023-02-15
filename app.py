@@ -116,7 +116,7 @@ st.subheader("Work History")
 
 
 # --- JOB 1
-st.write("🚧", "**Data Scientist | Greysoft Technologies**")
+st.write("🚧", "**Data Scientist | Greysoft Technologi**")
 st.write("01/2022 - Present")
 st.write(
     """
