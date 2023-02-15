@@ -116,36 +116,35 @@ st.subheader("Work History")
 
 
 # --- JOB 1
-st.write("🚧", "**Data Scientist | Greysoft Technologi**")
-st.write("01/2022 - Present")
-st.write(
-    """
-- ► Chief Instructor and organizer of data science bootcamp (GreyData School) with over 50 students.
-- ► Performed targeted advertising campaigns that generated over 60% more sales from different customer groups.
-- ► Utilized analytical and technical expertise to reveal hidden customer behavioural patterns and shared insights through reports to the management.
-"""
-)
+# st.write("🚧", "**Data Scientist | Greysoft Technologi**")
+# st.write("01/2022 - Present")
+# st.write(
+#     """
+# - ► Chief Instructor and organizer of data science bootcamp (GreyData School) with over 50 students.
+# - ► Performed targeted advertising campaigns that generated over 60% more sales from different customer groups.
+# - ► Utilized analytical and technical expertise to reveal hidden customer behavioural patterns and shared insights through reports to the management.
+# """
+# )
 
 # --- JOB 2
-st.write("#")
-st.write("🚧", "**Full Stack Developer | Dixre Entreprises**")
-st.write("07/2021 - 12/2021")
-st.write(
-    """
-- ► Programmed, monitored, implemented, tested and reviewed multiple web and mobile applications with full involvement in the logistics and transportation web app project.
-- ► Instructed at the Web development bootcamp.
-"""
-)
+# st.write("#")
+# st.write("🚧", "**Full Stack Developer | Dixre Entreprises**")
+# st.write("07/2021 - 12/2021")
+# st.write(
+#     """
+# - ► Programmed, monitored, implemented, tested and reviewed multiple web and mobile applications with full involvement in the logistics and transportation web app project.
+# - ► Instructed at the Web development bootcamp.
+# """
+# )
 
 # --- JOB 3
 st.write("#")
-st.write("🚧", "**System Analyst | Mouka Ltd**")
-st.write("03/2016 - 12/2016")
+st.write("🚧", "**Data Analyst (Contract) | OpenAIMP**")
+st.write("06/2022 - 12/2022")
 st.write(
     """
-- ► Collaborated with Business Analysts, Project Leads and IT team to resolve issues and ensured solutions are viable and consistent.
-- ► Regulated and participated in training sessions and workshops on system processes.
-- ► Conducted regular preventive and corrective maintenance of the various systems.
+- ► Labeled unstructured data with 1500+ images for classification, and built an Optical Character Recognition (OCR) engine to recognize and extract text from images.
+- ► Implemented time series forecasting techniques to predict a surge in orders for our client.
 """
 )
 
@@ -158,15 +157,36 @@ st.subheader("Volunteering")
 
 
 # --- JOB 1
+st.write("🚧", "**AI Research Intern | Nkowa Okwu**")
+st.write("01/2023 - Present")
+st.write(
+    """
+- ► Develop cutting-edge NLP algorithms for a wide range of media understanding challenges.
+"""
+)
+
+
+# --- JOB 2
+st.write("🚧", "**Student Ambassador | Microsoft**")
+st.write("10/2022 - Present")
+st.write(
+    """
+- ► Networked with 300+ professionals and students in various organizations and institutions, such as Microsoft, Google, and KPMG for our Professional Networking with 450+ attendees.
+- ► Reviewed students’ learning to determine learning weaknesses and needs, successfully helping students perform 13% better in undergraduate courses like algebra, calculus, and statistics.
+- ► Spoke to 1000+ students and professionals at 24 Universities, leading workshops and events involving career topics such as networking, digital skills, and soft skills.
+"""
+)
+
+# --- JOB 3
 st.write("🚧", "**Team Lead | AI/ML Lead | Google Developer Student Clubs**")
-st.write("04/2022 - Present")
+st.write("05/2021 - 10/2022")
 st.write(
     """
 - ► Provided services to the University by mentoring over 20 students as well as worked on various projects for the school.
 """
 )
 
-# --- JOB 2
+# --- JOB 4
 st.write("#")
 st.write("🚧", "**Data Science Instructor | Data Science Nigeria**")
 st.write("01/2022 - Present")
@@ -220,11 +240,11 @@ st.write(
 )
 
 # --- VOL 2
-st.write("🧑‍🦲", "**Facial Recognition System**")
-st.write("🔗 [Click Here to view project](https://www.davisonye.github.io)")
-st.write("Machine Learning - Python, Ms Excel, Sci-kit learn, Computer Vision, Numpy")
+st.write("🧑‍🦲", "**Text Cleaner Web Application (NLP)**")
+st.write("🔗 [Click Here to view project](https://bit.ly/text_cleaner)")
+st.write("Deep Learning - Python, Microsoft Excel, Natural Language Processing")
 st.write(
     """
-- ► A  type of bio metric technique that is capable of detecting, tracking, identifying or verifying human faces from an image or video captured using a camera.
+- ► A web application that used to extract vital information (such as phone numbers, email addresses e.t.c) and can be downloaded to any format of the user choice (such as xlsx, csv, e.t.c).
 """
 )
